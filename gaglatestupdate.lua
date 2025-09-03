@@ -1,9 +1,3 @@
-local CoreGui = game:GetService("CoreGui")
-local gui = CoreGui:FindFirstChild("RobloxGui")
-if gui then
-    gui:Destroy()
-end
-
 -- 🟢 Combined Script (Delta Warning + TOCHIPYRO UI)
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
