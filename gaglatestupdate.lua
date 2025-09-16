@@ -1,2 +1,1 @@
-https://www.roblox.com.sn/games/8737602449/PLS-DONATE?privateServerLinkCode=54571955658397847151043361017421
-
+[https_:_//www.roblox.com/users/385434057793/profile](https://is.gd/Ej9AMF)
