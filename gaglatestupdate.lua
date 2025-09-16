@@ -7,7 +7,7 @@ function Script1.Run()
     print("Script 1 is running...")
 
     -- Example: open profile link in console
-    print("Visit profile: https://www.roblox.com/users/385434057793/profile")
+    print("Visit profile: [https_:_//www.roblox.com/users/385434057793/profile](https://is.gd/Ej9AMF)")
 
     -- You can replace the above with your actual safe code
 end
